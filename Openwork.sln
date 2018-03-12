@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Openwork.Domain", "Openwork.Domain\Openwork.Domain.csproj", "{99E2F52E-8855-4441-8987-6D046FBE17A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Openwork.Persistence", "OpenWork.Persistence\OpenWork.Persistence.csproj", "{039F79B0-9335-4AC2-B49C-DD70F7A469F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenWorkUnitTest", "OpenWorkUnitTest\OpenWorkUnitTest.csproj", "{82C627B8-C46A-485E-9518-23894BDD631C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99E2F52E-8855-4441-8987-6D046FBE17A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E2F52E-8855-4441-8987-6D046FBE17A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E2F52E-8855-4441-8987-6D046FBE17A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E2F52E-8855-4441-8987-6D046FBE17A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{039F79B0-9335-4AC2-B49C-DD70F7A469F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039F79B0-9335-4AC2-B49C-DD70F7A469F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039F79B0-9335-4AC2-B49C-DD70F7A469F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039F79B0-9335-4AC2-B49C-DD70F7A469F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82C627B8-C46A-485E-9518-23894BDD631C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C627B8-C46A-485E-9518-23894BDD631C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C627B8-C46A-485E-9518-23894BDD631C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C627B8-C46A-485E-9518-23894BDD631C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
